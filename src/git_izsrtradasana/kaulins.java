@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class kaulins {
 	static void mestKaulinu(int reiz) {
+<<<<<<< HEAD
 		int sk, reizes;
 		Random rand =  new Random();
 		Scanner scan = new Scanner(System.in);
@@ -15,5 +16,18 @@ public class kaulins {
 				sk = rand.nextInt(6)+1;
 				System.out.println("Skaitlis uzkrita: "+sk);
 			}
+=======
+		int sk;
+		Random rand =  new Random();
+		for(int i=0; i<reiz; i++) {
+			sk = rand.nextInt(6)+1;
+			System.out.println("Skaitlis uzkrita: " +sk);
+		}
+	}
+
+	public static void main(String[] args) {
+		mestKaulinu(3);
+
+>>>>>>> testazars
 	}
 }
