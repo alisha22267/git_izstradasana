@@ -14,7 +14,7 @@ public class kaulins {
 				lielakais=sk;
 			}
 		}
-		System.out.println("Lielakais skaitlis ir "+lielakais);
+		System.out.println("Lielakais skaitlis ir  "+lielakais);
 	}
 
 	public static void main(String[] args) {
