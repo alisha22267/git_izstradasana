@@ -5,12 +5,16 @@ import java.util.Scanner;
 
 public class kaulins {
 	static void mestKaulinu(int reiz) {
-		int sk, reizes;
+		int sk, liela =0;
 		Random rand =  new Random();
 		for(int i=0; i<reiz; i++) {
 			sk = rand.nextInt(6)+1;
 			System.out.println("Skaitlis uzkrita: " +sk);
+			if(liela<sk)
+				liela = sk;
 		}
+		System.out.println(""
+		+ "Lielakais skaitlis no visiem uzmestajiem: "+liela);
 	}
 
 	public static void main(String[] args) {
