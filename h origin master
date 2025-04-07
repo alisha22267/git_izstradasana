@@ -1,0 +1,55 @@
+[33mcommit 3db90c5205bff6058d663fa8b286d523ac84869b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: e614ed2 402db07
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Mon Apr 7 11:07:38 2025 +0300
+
+    Merge branch 'master' of https://github.com/alisha22267/git_izstradasana
+
+[33mcommit e614ed2c810bba0dd8a3079bdbd3724d408e8d85[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Mon Apr 7 11:05:43 2025 +0300
+
+    Pievienojam metamo kaulinu ierobezojumu
+
+[33mcommit 402db07d7f31f6d32138fe90521ced107fe8c776[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: alisha3 <164026145+alisha22267@users.noreply.github.com>
+Date:   Mon Apr 7 10:48:27 2025 +0300
+
+    Izveidots README.md
+
+[33mcommit 479af02f965cfc1847d77b17f143b29b18201ff8[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Tue Apr 1 14:34:04 2025 +0300
+
+    Pievienota sakums
+
+[33mcommit 68e1e43b1dc0f88e82869cd67d03a5fe85e4ed98[m
+Merge: 82c776a 89f8086
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Tue Apr 1 13:38:56 2025 +0300
+
+    Sapludzinati zari
+
+[33mcommit 82c776acf301f44cf80fcaa7fe2c87fd96e77762[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Tue Apr 1 13:31:06 2025 +0300
+
+    Iespeja ievadi, cik reizes mest kaulinu
+
+[33mcommit 89f80861e6a9c03b2110589945fa64f88ebdc026[m[33m ([m[1;32mtestazars[m[33m)[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Mon Mar 31 14:34:13 2025 +0300
+
+    Metode ievests cikla
+
+[33mcommit 7f20b25c0630f61eae91b5c0f8d815ff32a54189[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Mon Mar 31 14:13:56 2025 +0300
+
+    Programmas pirma versija
+
+[33mcommit 2292752534f88332b2b4838836e0d991d442f017[m
+Author: kolobanova <alinakolobanova22@gmail.com>
+Date:   Mon Mar 31 14:05:22 2025 +0300
+
+    Projekta uzsaksana
